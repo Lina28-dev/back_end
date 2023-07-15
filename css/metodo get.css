@@ -1,0 +1,22 @@
+body{
+    background:
+url('https://img.freepik.com/free-vector/hand-drawn-life-cycle_52683-74097.jpg?w=1380&t=st=1688842575~exp=1688843175~hmac=f523a431cf0910fa2f61076dfac661d43fb9264eb095efa22ce9c78d92447d01')
+no-repeat;
+    background-size: cover;
+}
+.main-frame-cal{
+    width: 50%;
+    padding: 50px;
+    height: 450px;
+    border-radius: 30px;
+    background-color: #566594e5;
+    box-shadow: 0px 0px 20px 0px #000000;
+    margin: 7% auto;
+}
+
+.main-frame-cal label{
+    font-weight: bold;
+}
+button{
+    float: right;
+}
